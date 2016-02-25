@@ -1,0 +1,1 @@
+1..5 | % { write-Host "$_ - Hello seclab.lu ..." }
